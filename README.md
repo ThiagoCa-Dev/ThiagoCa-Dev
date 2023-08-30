@@ -3,7 +3,7 @@ Olá muito prazer, meu nome é Thiago😁
 
 ![ThiagoCa-Dev GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoCa-Dev&show_icons=true&theme=tokyonight)
 
-[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram/thg_carlos.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram/@thg_carlos.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-carlos-de-andrade-silva-428b3a260/)
 
 ### Tecnologias ###
