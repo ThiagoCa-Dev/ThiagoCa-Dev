@@ -1,4 +1,4 @@
-Olá, bem-vindo ao meu perfil. Meu nome é Thiago, muito prazer
+
 
 <div>
 ### Olá muito prazer, meu nome é Thiago😁
