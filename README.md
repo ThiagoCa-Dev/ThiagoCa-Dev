@@ -1,6 +1,6 @@
 <div>
   <a href="https://github.com/ThiagoCa-Dev#gh-dark-mode-only">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=f02afc&height=270&section=header&fontAlignY=35&text=ThiagoCa-Dev&desc=%20&fontSize=90&fontColor=390041#gh-dark-mode-only" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=f02afc&height=270&section=header&fontAlignY=35&text=Welcome&desc=%20&fontSize=90&fontColor=390041#gh-dark-mode-only" />
 </a>
 </div>
 
